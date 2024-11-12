@@ -20,6 +20,7 @@ cc_library_shared {
         "-Wno-missing-braces",
         "-Wno-missing-field-initializers",
         "-Wno-pointer-arith",
+        "-Wno-pointer-bool-conversion",
         "-Wno-sign-compare",
         "-Wno-unused-function",
         "-Wno-unused-const-variable",
